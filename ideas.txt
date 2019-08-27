@@ -1,0 +1,6 @@
+Make a CLI tool - use a python library for it
+Have an add command that will let you add things to the to-do list (pydo add)
+Have a to-do command that will give you a list of things you have to-do today (pydo todo{or list})
+Have a finished command that will add an X or delete an item (pydo fin)
+Have a done command, that will show you what's been done today (pydo compl)
+Have a date variable assigned to the values, and if it is the next day, put the data in a json file and start over? 
